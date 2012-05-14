@@ -1,7 +1,7 @@
 // CoinToss Game
-var win = Titanium.UI.createWindow({
-	title: 'Coin Toss',
+var win = Ti.UI.createWindow({
 	backgroundColor: '#fff',
+	url: '/views/main.js',
 });
 
 win.open();

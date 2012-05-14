@@ -1,1 +1,0 @@
-/Users/kaiquesilva/Documents/Titanium Studio Workspace/CoinToss/Resources/app.js
